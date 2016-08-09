@@ -1,0 +1,35 @@
+3.2546 	EXP 	Set Window color=[ 0.  0.  0.] (rgb)
+4.2798 	EXP 	Created instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=368, italic=False, name='instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2836 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=138, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2862 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=138, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2888 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'green', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=138, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.2913 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=UNKNOWN, fontFiles=UNKNOWN, height=138, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=UNKNOWN)
+4.3041 	EXP 	TextStim: autoDraw = True
+9.2073 	DATA 	Keypress: space
+9.2232 	EXP 	TextStim: autoDraw = False
+9.2232 	EXP 	TextStim: autoDraw = True
+10.5576 	DATA 	Keypress: t
+10.5737 	EXP 	TextStim: autoDraw = False
+10.5737 	EXP 	TextStim: autoDraw = True
+45.5596 	EXP 	Created sequence: sequential, trialTypes=1, nReps=4, seed=None
+45.5603 	EXP 	New trial (rep=0, index=0): None
+45.5744 	EXP 	TextStim: autoDraw = False
+45.5744 	EXP 	TextStim: autoDraw = False
+45.5744 	EXP 	TextStim: autoDraw = True
+80.5747 	EXP 	TextStim: autoDraw = False
+80.5747 	EXP 	TextStim: autoDraw = True
+115.5587 	EXP 	New trial (rep=1, index=0): None
+115.5753 	EXP 	TextStim: autoDraw = False
+115.5753 	EXP 	TextStim: autoDraw = True
+150.5757 	EXP 	TextStim: autoDraw = False
+150.5757 	EXP 	TextStim: autoDraw = True
+185.5602 	EXP 	New trial (rep=2, index=0): None
+185.5762 	EXP 	TextStim: autoDraw = False
+185.5762 	EXP 	TextStim: autoDraw = True
+220.5767 	EXP 	TextStim: autoDraw = False
+220.5767 	EXP 	TextStim: autoDraw = True
+255.5612 	EXP 	New trial (rep=3, index=0): None
+255.5774 	EXP 	TextStim: autoDraw = False
+255.5774 	EXP 	TextStim: autoDraw = True
+290.5779 	EXP 	TextStim: autoDraw = False
+290.5779 	EXP 	TextStim: autoDraw = True
