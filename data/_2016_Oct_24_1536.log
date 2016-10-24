@@ -1,0 +1,43 @@
+0.4014 	WARNING 	Movie2 stim could not be imported and won't be available
+4.6349 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0xfd4c580>, name='window1', pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.6349 	EXP 	window1: recordFrameIntervals = False
+4.7995 	EXP 	window1: recordFrameIntervals = True
+4.9838 	EXP 	window1: recordFrameIntervals = False
+5.1545 	EXP 	Created instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+5.1593 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+5.1624 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+5.1658 	EXP 	Created tapping = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'green', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.3, italic=False, name='tapping', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+5.1690 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+5.1852 	EXP 	instructions: autoDraw = True
+6.6718 	DATA 	Keypress: return
+7.2733 	DATA 	Keypress: space
+7.2894 	EXP 	instructions: autoDraw = False
+7.2894 	EXP 	text_3: autoDraw = True
+7.8587 	DATA 	Keypress: space
+7.8743 	EXP 	text_3: autoDraw = False
+7.8743 	EXP 	text: autoDraw = True
+43.8560 	EXP 	Created sequence: sequential, trialTypes=1, nReps=4, seed=None
+43.8570 	EXP 	New trial (rep=0, index=0): None
+43.8719 	EXP 	text: autoDraw = False
+43.8719 	EXP 	text: autoDraw = False
+43.8719 	EXP 	tapping: autoDraw = True
+79.8694 	EXP 	tapping: autoDraw = False
+79.8694 	EXP 	tapping: autoDraw = False
+79.8694 	EXP 	text_5: autoDraw = True
+115.8512 	EXP 	New trial (rep=1, index=0): None
+115.8669 	EXP 	text_5: autoDraw = False
+115.8669 	EXP 	text_5: autoDraw = False
+115.8669 	EXP 	tapping: autoDraw = True
+151.8644 	EXP 	tapping: autoDraw = False
+151.8644 	EXP 	tapping: autoDraw = False
+151.8644 	EXP 	text_5: autoDraw = True
+187.8462 	EXP 	New trial (rep=2, index=0): None
+187.8620 	EXP 	text_5: autoDraw = False
+187.8620 	EXP 	text_5: autoDraw = False
+187.8620 	EXP 	tapping: autoDraw = True
+223.8595 	EXP 	tapping: autoDraw = False
+223.8595 	EXP 	tapping: autoDraw = False
+223.8595 	EXP 	text_5: autoDraw = True
+246.3879 	DATA 	Keypress: space
+246.5883 	DATA 	Keypress: space
+248.1772 	DATA 	Keypress: escape

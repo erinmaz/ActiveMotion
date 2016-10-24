@@ -1,0 +1,46 @@
+0.3961 	WARNING 	Movie2 stim could not be imported and won't be available
+6.9606 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x10565580>, name='window1', pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9607 	EXP 	window1: recordFrameIntervals = False
+7.1261 	EXP 	window1: recordFrameIntervals = True
+7.3101 	EXP 	window1: recordFrameIntervals = False
+7.4672 	EXP 	Created instructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='instructions', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+7.4718 	EXP 	Created text_3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text_3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+7.4749 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+7.4782 	EXP 	Created tapping = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'green', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.3, italic=False, name='tapping', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([   0.,  128.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+7.4814 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.3, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+7.4936 	EXP 	instructions: autoDraw = True
+10.6527 	DATA 	Keypress: space
+10.6687 	EXP 	instructions: autoDraw = False
+10.6687 	EXP 	text_3: autoDraw = True
+11.3047 	DATA 	Keypress: space
+11.3208 	EXP 	text_3: autoDraw = False
+11.3208 	EXP 	text: autoDraw = True
+47.3022 	EXP 	Created sequence: sequential, trialTypes=1, nReps=4, seed=None
+47.3032 	EXP 	New trial (rep=0, index=0): None
+47.3180 	EXP 	text: autoDraw = False
+47.3180 	EXP 	text: autoDraw = False
+47.3180 	EXP 	tapping: autoDraw = True
+83.3154 	EXP 	tapping: autoDraw = False
+83.3154 	EXP 	tapping: autoDraw = False
+83.3154 	EXP 	text_5: autoDraw = True
+119.2970 	EXP 	New trial (rep=1, index=0): None
+119.3128 	EXP 	text_5: autoDraw = False
+119.3128 	EXP 	text_5: autoDraw = False
+119.3128 	EXP 	tapping: autoDraw = True
+155.3102 	EXP 	tapping: autoDraw = False
+155.3102 	EXP 	tapping: autoDraw = False
+155.3102 	EXP 	text_5: autoDraw = True
+191.2919 	EXP 	New trial (rep=2, index=0): None
+191.3076 	EXP 	text_5: autoDraw = False
+191.3076 	EXP 	text_5: autoDraw = False
+191.3076 	EXP 	tapping: autoDraw = True
+227.3052 	EXP 	tapping: autoDraw = False
+227.3052 	EXP 	tapping: autoDraw = False
+227.3052 	EXP 	text_5: autoDraw = True
+263.2868 	EXP 	New trial (rep=3, index=0): None
+263.3026 	EXP 	text_5: autoDraw = False
+263.3026 	EXP 	text_5: autoDraw = False
+263.3026 	EXP 	tapping: autoDraw = True
+299.3000 	EXP 	tapping: autoDraw = False
+299.3000 	EXP 	tapping: autoDraw = False
+299.3000 	EXP 	text_5: autoDraw = True

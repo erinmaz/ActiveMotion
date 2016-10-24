@@ -20,7 +20,7 @@ blockrest=36
 numflashes=288 # number of flashes per on block (e.g., 35s * 8 Hz = 280) 
 
 # Store info about the experiment session
-expName = 'None'  # from the Builder filename that created this script
+expName = 'VM'  # from the Builder filename that created this script
 expInfo = {u'session': u'001', u'participant': u''}
 dlg = gui.DlgFromDict(dictionary=expInfo, title=expName)
 if dlg.OK == False: core.quit()  # user pressed cancel
